@@ -1,5 +1,6 @@
 title,type,value,category
-Salario,income,5000,Others
 Compras,outcome,800,Food
-Almoco,outcome,50,Food
-Extra,income,1000,Others
+Restaurant,outcome,50,Travel
+Hotel,outcome,150,Travel
+Supermarket,outcome,200,Food
+GoBarber App,income,1500,Jobs
