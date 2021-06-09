@@ -26,7 +26,7 @@ GoFinances é uma aplicação para gestão de transações financeiras, onde o u
 
 Além da maneira convencional de gravar transação por transação, a API também disponibiliza uma opção para importação de arquivo CSV com os lançamentos do usuário.
 
-## :computer: Iniciando front-end
+## :computer: Tecnologias
 Esse projeto foi desenvolvido no Bootcamp GoStack da Rocketseat com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/)
