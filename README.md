@@ -20,9 +20,9 @@
 ![GitHub](https://img.shields.io/github/license/ecrozatti/GoFinances_NodeJS)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ecrozatti/GoFinances_NodeJS)
 
-Este repositório contém uma API REST em Node.js com TypeScript, como back-end da aplicação GoFinances.
+Este repositório contém a API REST da aplicação GoFinances. Projeto backend usando Node.js com TypeScript, banco de dados PostegreSQL com TypeORM e envio de arquivo CSV com Multer.
 
-GoFinances é uma aplicação para gestão de transações financeiras, onde o usuário consegue informar todas suas entradas e saídas, assim como seu o saldo disponível.
+GoFinances é uma aplicação para gestão de transações financeiras, onde o usuário consegue informar todas suas entradas e saídas, assim como obter seu saldo disponível.
 
 Além da maneira convencional de gravar transação por transação, a API também disponibiliza uma opção para importação de arquivo CSV com os lançamentos do usuário.
 
